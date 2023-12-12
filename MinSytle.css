@@ -1,0 +1,38 @@
+*
+{
+	font-family: 'Poppins', sans-serif;
+	margin: 0;
+	padding: 0;
+	box-sizzing:border-box;
+	outline: none;
+	border: transparent;
+	text-decoration: none;
+}
+
+body
+{
+	background-color: black;
+}
+
+.container
+{
+	min-height: 100vh;
+	dispaly: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 30px;
+	padding-bottom: 60px;
+
+}
+
+.container .content
+{
+	text-align: center;	
+}
+
+.container .content h3
+{
+	font-size: 30px;
+	color: #333;
+
+}
